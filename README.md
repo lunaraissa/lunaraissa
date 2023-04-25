@@ -1,16 +1,17 @@
-### Hi there 👋
+<div>
+<h1 align="center">Oii, eu sou a Luna!!
+</div>
 
-<!--
-**lunaraisssa/lunaraisssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lunaraisssa&show_icons=true&theme=vue-dark&count_private=true)"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunaraisssa&layout=compact&langs_count=168&theme=vue-dark"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+</br a href="https://www.instagram.com/lunaraissamb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" </a>
+<a hre="https://github.com/lunaraisssa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" </a>
+</div>
+
+
+ ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
