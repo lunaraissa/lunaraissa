@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lunaraissa&show_icons=true&theme=vue-dark&count_private=true)"/>
-     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunaraissa&layout=compact&langs_count=168&theme=vue-dark"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=lunaraissa&show_icons=true&theme=radical&count_private=true)"/>
+     <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunaraissa&layout=compact&langs_count=168&theme=radical"/>
 </div>
 
 
